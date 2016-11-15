@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         // Código para animação da textView ir da Esquerda - Direita
         //  final Animation animTranslate = AnimationUtils.loadAnimation(this,R.anim.anim);
         // ImageView splash = (ImageView) findViewById(R.id.imageView);
-        //   splash.startAnimation(animTranslate);
+        //   splash.startAnimation(animTranslate);ddd
 
 
 
