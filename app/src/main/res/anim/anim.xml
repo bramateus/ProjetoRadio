@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set  xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+    <Alpha
+        android:fromXDelta="0"
+        android:toXDelta="62%p"
+        android:duration="13000"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+
+
+
+
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+</set>

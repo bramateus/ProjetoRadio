@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121"
+
+
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+
+        android:src="@drawable/splash"
+        android:scaleType="center"
+
+        android:id="@+id/imageView"
+        android:onClick="about"
+
+        />
+
+
+
+
+
+
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121" android:onClick="about"
+
+
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:text="O Aplicativo RockRádio Online foi desenvolvido por: "
+        android:textSize="20sp"
+        android:onClick="about"
+        android:textColor="#ffffff"
+        android:gravity="center|center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:text="Contato: "
+        android:textSize="18sp"
+        android:onClick="about"
+        android:textColor="#ffffff"
+        android:gravity="center_horizontal"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+            android:text="Braulio Mateus:                                            (31) 97303-3012                                           brawlyo@hotmail.com"
+            android:textSize="20sp"
+            android:onClick="about"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            />
+
+</LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

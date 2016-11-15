@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+
+
+
+
+
+
+    <item
+        android:id="@+id/shutdownicon"
+        android:title="shutdown"
+        android:icon="@mipmap/icosa"
+        app:showAsAction="always"
+
+        >
+    </item>
+
+
+
+
+
+
+
+    <group>
+
+
+
+
+
+
+        <item
+            android:title="Sobre"
+            android:icon="@mipmap/dotsmedium"
+            app:showAsAction="collapseActionView"
+            android:id="@+id/sobre"
+            android:menuCategory="container"
+            >
+        </item>
+
+
+
+
+
+</group>
+
+
+
+
+
+
+</menu>
