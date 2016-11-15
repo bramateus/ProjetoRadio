@@ -54,10 +54,6 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPre
         //  final Animation animTranslate = AnimationUtils.loadAnimation(this,R.anim.anim);
         // ImageView splash = (ImageView) findViewById(R.id.imageView);
         //   splash.startAnimation(animTranslate);
-        /
-        /
-        /
-        /
 
 
 
